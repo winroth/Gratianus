@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Decretum Gratiani, new editions
-tagline: Now editions of Gratian's Decretum
 description: A website for making available working editions of Gratian's Decretum
 ---
 
