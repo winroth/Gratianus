@@ -13,4 +13,4 @@ The Decretum was produced in a two-stage process, with Gratian himself finishing
 
 This website publishes materials produced in connection with the work to produce new editions and translations of Gratian's Decretum, including our draft edition of the first recension.
 
-anders.winroth@iakh.uio.no
+
