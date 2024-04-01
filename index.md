@@ -4,8 +4,8 @@ title: Decretum Gratiani, new editions
 description: A website for making available working editions of Gratian's Decretum
 ---
 
-
-
+<div class="centered-content">
+  
 # Decretum Gratiani
 
 ![A manuscript of Gratian's Decretum](/images/Pa_fo_242v.jpg))
@@ -20,5 +20,5 @@ This website publishes materials produced in connection with the work to produce
 
 </div>
  
-
+</div>
 
