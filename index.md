@@ -8,11 +8,13 @@ description: A website for making available working editions of Gratian's Decret
   
 # Decretum Gratiani
 
+<div style="max-width:600px; margin:0 auto; font-size:24px;">
+
 ![A manuscript of Gratian's Decretum](/images/Pa_fo_242v.jpg))
 
 % <div class="centered-content">
   
-<div style="max-width:600px; margin:0 auto; font-size:24px;">
+
 
 Gratian was a teacher of canon law in Bologna around 1140. He compiled his own textbook which he called Concordia discordantium canonum ("Harmony from Discordant Canons"). The work became know as the Decretum for short, thus signaling his intention to reconcile systematically contradictory statements of ecclesiastical law. 
 
