@@ -10,7 +10,7 @@ description: A website for making available working editions of Gratian's Decret
 
 ![A manuscript of Gratian's Decretum](/images/Pa_fo_242v.jpg))
 
-<div class="centered-content">
+% <div class="centered-content">
   
 <div style="max-width:600px; margin:0 auto; font-size:16px;">
 
@@ -22,5 +22,5 @@ This website publishes materials produced in connection with the work to produce
 
 </div>
  
-</div>
+% </div>
 
