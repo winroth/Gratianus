@@ -5,6 +5,17 @@ body {
     font-family: 'Cormorant Garamond', serif;
 }
 
+.centered-content {
+  text-align: center; /* Center-aligns the text inside the div */
+}
+
+.centered-content img {
+  display: block; /* Ensures the image is centered and not affected by surrounding content */
+  margin: 0 auto; /* Centers the image horizontally within the div */
+}
+
+
+
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Lato', sans-serif;
 }
